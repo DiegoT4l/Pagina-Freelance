@@ -1,4 +1,6 @@
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/9076b838-b864-4190-a882-653c57ab410d/deploy-status)](https://app.netlify.com/sites/freelance-template-t4l/deploys)
+
 # Freelance Web
 
 ### Project Description
