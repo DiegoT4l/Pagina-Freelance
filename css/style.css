@@ -121,7 +121,7 @@ h1, h2, h3 {
 
 /* Hero */
 .hero {
-    background-image: url(resources/hero.jpg);
+    background-image: url(/assets/hero.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 450px;
