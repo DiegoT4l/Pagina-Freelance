@@ -1,19 +1,37 @@
-Welcome to my Freelance services website project! Here you will find everything you need to take your web projects to the next level. From design to development, I'm ready to offer you my specialized services in HTML, CSS and JavaScript.
 
-Featured Features:
+# Freelance Web
 
-🌐 Professional Website: I have created a professional and elegant website to showcase my expertise and services in the world of web development. Easily explore the sections describing my skills and accomplishments.
+### Project Description
+This project involves the creation of a website that simulates the freelancer web developer website. The page was developed as part of a Udemy course taught by Professor Juan de la Torre Valdez.
 
-🛠️ Expertise in HTML, CSS and JavaScript: With extensive experience in these fundamental web development technologies, I can create modern and attractive websites that meet your needs and goals.
+### Educational Purpose
+The purpose of this project is purely educational. Its development focuses on helping students improve their web programming skills using tools like HTML and CSS. Through this project, course participants learn how to create, structure, and style modern and responsive websites.
 
-📧 Direct Contact Form: Ready to work together? Feel free to contact me via the contact form provided on the website - I'm excited to hear about your project!
 
-📚 Project Portfolio: Explore examples of my past work in the portfolio section. You'll see projects I've developed for satisfied clients, and maybe you'll find inspiration for your next project!
+## Tech Stack
 
-🔧 Customization for you: I understand that every project is unique. That's why I offer customized solutions that fit your specific requirements and ensure the success of your project.
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
-🌐 Services for Everyone: Whether you need a website from scratch, a redesign of your current website or the implementation of additional features, I'm ready to help you on your web journey.
+## Authors
 
-I look forward to working with you to bring your ideas and projects to life on the web! If you're looking for a passionate web developer with experience in HTML, CSS and JavaScript, you've come to the right place! I'm excited to be part of your next project.
+- [@codigoconjuan](https://github.com/codigoconjuan)
+- [@DiegoT4l](https://github.com/DiegoT4l)
 
-Visit my website and find out how we can take your ideas to the next level - contact me today and let's start building your dream website together! 💻🚀
+## Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/DiegoT4l/Web-Freelance.git
+
+Go to the project directory
+
+```bash
+  cd Web-Freelance
+```
+
+
+## License
+
+[ISC](LICENSE)
