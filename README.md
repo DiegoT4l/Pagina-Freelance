@@ -26,6 +26,7 @@ Clone the project
 
 ```bash
   git clone https://github.com/DiegoT4l/Web-Freelance.git
+```
 
 Go to the project directory
 
